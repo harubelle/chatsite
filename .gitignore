@@ -1,0 +1,11 @@
+# ignore from project
+__pycache__
+*.pyc
+*.pyo
+img
+
+# ignore from root
+/config
+/media
+/work
+/db.sqlite3
